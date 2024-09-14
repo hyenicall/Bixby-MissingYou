@@ -23,5 +23,5 @@
 ![슬라이드23](https://github.com/user-attachments/assets/620f4e53-56a4-4e67-96d0-7319cffb90ca)
 
 
-# Bixby Developer Day 2019: Session Bixby 캡슐챌린지 시즌 2 결선 영상
-[![Video Label](http://img.youtube.com/vi/Mi3lIlnKjoE/maxresdefault.jpg)](https://youtu.be/Mi3lIlnKjoE?t=1644)
+# Bixby Developer Day 2019: Session Bixby 캡슐챌린지 시즌 2 영상
+[![Video Label](http://img.youtube.com/vi/Mi3lIlnKjoE/maxresdefault.jpg)](https://youtu.be/Mi3lIlnKjoE?t=1682)
