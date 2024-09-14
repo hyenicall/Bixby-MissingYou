@@ -1,0 +1,24 @@
+capsule {
+  id (inhabixby.missingyou)
+  version (1.1.1)
+  format (3)
+  targets {
+    target (bixby-mobile-ko-KR)
+    target (bixby-mobile-en-US){enabled (false)}
+  }
+  runtime-version (4)
+  store-sections{
+    section (ArtAndLifestyle)
+  }
+
+  store-countries{
+    only{
+      allow (KR)
+    }
+  }
+  capsule-imports{
+    import (viv.time) {
+      as (time) version (3.1.48)
+    }
+  }
+}
